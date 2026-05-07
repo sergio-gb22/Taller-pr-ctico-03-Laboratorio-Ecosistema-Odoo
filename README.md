@@ -4,6 +4,7 @@ Creo el archivo clientes_mock.csv y copio los datos dados en la actividad, para 
 e importar los registros darle a test y como me lo muestra todo en azul esta bien por lo que confirmo la importación dandole a importar, creo el producto con la cuenta de administrador
 
 Despues entro con el usuario Comercial 01 y creo un presupuesto, en el pedido creo una factura 
+
 <img width="802" height="900" alt="Captura" src="images/Captura de pantalla 2026-05-07 141427.png" />
 
 
@@ -23,9 +24,10 @@ en la barra de busqueda filtro por clave sale.report_saleorder_document, abro el
   </div>
 
   Tras guardar los cambios vuelvo a ventas y clico en el boton acción (que es la tuerca) y descargo el presupuesto del cliente en pdf
-  pdf
+ [Haz clic aquí para leer el documento (PDF)](Pedido - S00004.pdf)
+
 
   ## *Fase 3:* Exportación de Información
   Voy a la aplicación de facuración y Facturación > Clientes > Clientes marco la casilla del cliente clico en el boton acción (que es la tuerca) y selecciono exportar, selecciono que quiero "Exportar datos compatibles con importación" y de formato CSV despues en la columna izquierda, busca Nombre (name), Correo electrónico (email) y Teléfono (phone) y busca País (country_id), despliego y selecciono Nombre del país (country_id/name) y selecciono exportar donde se descargara el archivo
 
-  
+<img width="802" height="900" alt="Captura" src="images/Captura de pantalla 2026-05-07 143913.png" />
