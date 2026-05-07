@@ -23,13 +23,10 @@ en la barra de busqueda filtro por clave sale.report_saleorder_document, abro el
     </div>
   </div>
 
-  Tras guardar los cambios vuelvo a ventas y clico en el boton acción (que es la tuerca) y descargo el presupuesto del cliente en pdf
-[Haz clic aquí para ver el documento PDF](PDF/Pedido - S00004.pdf)
+Tras guardar los cambios vuelvo a ventas y clico en el boton acción (que es la tuerca) y descargo el presupuesto del cliente en pdf
+<img width="802" height="900" alt="Captura" src="images/Captura de pantalla 2026-05-07 142412.png" />
 
-
-
-
-  ## *Fase 3:* Exportación de Información
-  Voy a la aplicación de facuración y Facturación > Clientes > Clientes marco la casilla del cliente clico en el boton acción (que es la tuerca) y selecciono exportar, selecciono que quiero "Exportar datos compatibles con importación" y de formato CSV despues en la columna izquierda, busca Nombre (name), Correo electrónico (email) y Teléfono (phone) y busca País (country_id), despliego y selecciono Nombre del país (country_id/name) y selecciono exportar donde se descargara el archivo
+## *Fase 3:* Exportación de Información
+Voy a la aplicación de facuración y Facturación > Clientes > Clientes marco la casilla del cliente clico en el boton acción (que es la tuerca) y selecciono exportar, selecciono que quiero "Exportar datos compatibles con importación" y de formato CSV despues en la columna izquierda, busca Nombre (name), Correo electrónico (email) y Teléfono (phone) y busca País (country_id), despliego y selecciono Nombre del país (country_id/name) y selecciono exportar donde se descargara el archivo
 
 <img width="802" height="900" alt="Captura" src="images/Captura de pantalla 2026-05-07 143913.png" />
