@@ -4,7 +4,7 @@ Creo el archivo clientes_mock.csv y copio los datos dados en la actividad, para 
 e importar los registros darle a test y como me lo muestra todo en azul esta bien por lo que confirmo la importación dandole a importar, creo el producto con la cuenta de administrador
 
 Despues entro con el usuario Comercial 01 y creo un presupuesto, en el pedido creo una factura 
-<img width="802" height="272" alt="Captura" src="images/Captura de pantalla 2026-05-07 141427.png" />
+<img width="802" height="900" alt="Captura" src="images/Captura de pantalla 2026-05-07 141427.png" />
 
 
 ## *Fase 2:* Elaboración de Informes
