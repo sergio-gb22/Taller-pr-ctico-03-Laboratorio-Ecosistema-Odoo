@@ -24,7 +24,9 @@ en la barra de busqueda filtro por clave sale.report_saleorder_document, abro el
   </div>
 
   Tras guardar los cambios vuelvo a ventas y clico en el boton acción (que es la tuerca) y descargo el presupuesto del cliente en pdf
- [Haz clic aquí para leer el documento (PDF)](Pedido - S00004.pdf)
+[Haz clic aquí para ver el documento PDF](PDF/Pedido - S00004.pdf)
+
+
 
 
   ## *Fase 3:* Exportación de Información
